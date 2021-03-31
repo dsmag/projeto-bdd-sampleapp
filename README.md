@@ -1,13 +1,13 @@
 # <p align="center">Projeto Individual - Accenture QA</p>
 
 <p align="center">
-  <a href="#📝-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#⚙️-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
-## 📝 Descrição
+## :pencil: Descrição
 ### Criar um projeto em Selenium WebDrive (Java) e Cucumber usando Page objects
 <br>
 
@@ -28,7 +28,7 @@
 <br>
 <br>
 
-## 🚀 Tecnologias
+## :rocket: Tecnologias
 <br>
 
 
@@ -48,7 +48,7 @@ Framework responsável por fazer a integração do código Java com a linguagem 
 
 <br>
 
-## ⚙️ Como utilizar
+## :gear: Como utilizar
 <br>
 
 - Instalar [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
